@@ -151,6 +151,7 @@ function uniquifyArray (array) {
   aggregate += array[countArray];
   }
   return aggregate;
+  
 }
 
 var words3 = [
